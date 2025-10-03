@@ -1,5 +1,6 @@
-package Arrays;
-import java.util.Arrays;
+package Array;
+
+import java.util.*;
 public class SingleNumber2 {
 
     public int singleNumber(int[] nums) {
